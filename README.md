@@ -1,1 +1,1 @@
-# brain_tumor_prediction
+# brain_tumor_prediction:This project is implemented to predict whether brain tumor is present or not. If brain tumor is present then what type of brain tumor is present (meningioma, glioma, pituitary tumor).
